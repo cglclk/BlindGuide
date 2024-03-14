@@ -1,0 +1,1 @@
+manifests: stellt Informationen über die Anwedung bereit. Außerdem enthält die Manifest-Datei alle permissions, d.h., wenn auf die Kamera zugegriffen werden muss, oder die Anwendung eine Verbindung zum Internet stellen muss, wird das hier definiert.
